@@ -1,2 +1,2 @@
-# rich_presence
-Qyful's Rich Presence
+# Qyful's Rich Presence
+WIP
